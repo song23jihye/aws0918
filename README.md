@@ -4,7 +4,9 @@
 ## git 주소 :    https://github.com/digicope/aws0918
 #### (git 사용기간 : (2023.09.22 이후에는 접속 불가)
 
+## AWS Glue : https://docs.aws.amazon.com/ko_kr/glue/latest/dg/components-key-concepts.html
 
+<br>
 #### 강사: 고병화
 #### E-mail : digicope@aicore.co.kr
 
