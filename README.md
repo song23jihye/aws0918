@@ -5,9 +5,12 @@
 #### (git 사용기간 : (2023.09.22 이후에는 접속 불가)
 
 ### Analytics on AWS : https://catalog.us-east-1.prod.workshops.aws/workshops/44c91c21-a6a4-4b56-bd95-56bd443aa449/ko-KR
-### AWS Glue : https://docs.aws.amazon.com/ko_kr/glue/latest/dg/components-key-concepts.html
-
 <br>
+### AWS Glue : https://docs.aws.amazon.com/ko_kr/glue/latest/dg/components-key-concepts.html
+<br>
+### AWS Redshift Lab : https://catalog.us-east-1.prod.workshops.aws/workshops/9f29cdba-66c0-445e-8cbb-28a092cb5ba7/en-US/lab1
+<br>
+
 #### 강사: 고병화
 #### E-mail : digicope@aicore.co.kr
 
