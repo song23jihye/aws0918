@@ -1,0 +1,28 @@
+### API Gateway 실습 Lambda Function 코드 ###
+
+------------------------------------------------------------------
+# 코드 - 레코드를 DynamoDB에 삽입하는 코드
+
+import boto3
+ 
+resource = boto3.resource('dynamodb')
+table = resource.Table('customers')
+def lambda_handler(event, context):
+   table.put_item(Item=event)
+   return {"code":200, "message": "Data Successfully Inserted!"}
+
+
+------------------------------------------------------------------
+# Test 요청본문
+
+{
+    "customer_id" : "1230AWS",
+    "customer_name" : "KilDong",
+    "product_name" : "labtop",
+    "price" : 990000
+}
+
+
+------------------------------------
+aws-learner-dynamodb-putiem-policy
+aws-learner-dynamodb-role
