@@ -13,6 +13,9 @@
 ### AWS Redshift Lab : https://catalog.us-east-1.prod.workshops.aws/workshops/9f29cdba-66c0-445e-8cbb-28a092cb5ba7/en-US/lab1
 <br>
 
+### AWS Sagemaker Studio Lab : https://studiolab.sagemaker.aws/
+<br>
+
 #### 강사: 고병화
 #### E-mail : digicope@aicore.co.kr
 
